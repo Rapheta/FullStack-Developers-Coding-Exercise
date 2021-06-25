@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Intricom.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Intricom.Api.Controllers.ClientsController.GetClients">
+            <summary>
+                Retrieve all clients
+            </summary>
+            <returns>List of all clients</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.ClientsController.GetClient(System.Int32)">
+            <summary>
+                Retrieve a client by its identifier
+            </summary>
+            <returns>One specific client</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.ClientsController.EditClient(Intricom.Core.Entities.Client)">
+            <summary>
+                Edit a client
+            </summary>
+            <returns>true / false</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelBookingsController.GetHotelBookings">
+            <summary>
+                Retrieve all hotel bookings
+            </summary>
+            <returns>List of all hotel bookings</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelBookingsController.GetHotelBooking(System.Int32)">
+            <summary>
+                Retrieve a hotel booking by its identifier
+            </summary>
+            <returns>One specific hotel booking</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelBookingsController.CreateHotelBooking(Intricom.Core.Entities.HotelBooking)">
+            <summary>
+                Create a hotel booking
+            </summary>
+            <returns>Created hotel booking</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelBookingsController.DeleteHotelBooking(System.Int32)">
+            <summary>
+                Delete a hotel booking by its identifier
+            </summary>
+            <returns>true / false</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelBookingsController.EditHotelBooking(Intricom.Core.Entities.HotelBooking)">
+            <summary>
+                Edit a hotel booking
+            </summary>
+            <returns>true / false</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelsController.GetHotels">
+            <summary>
+                Retrieve all hotels
+            </summary>
+            <returns>List of all hotels</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelsController.GetHotel(System.Int32)">
+            <summary>
+                Retrieve a hotel by its identifier
+            </summary>
+            <returns>One specific hotel</returns>
+        </member>
+        <member name="M:Intricom.Api.Controllers.HotelsController.EditHotel(Intricom.Core.Entities.Hotel)">
+            <summary>
+                Edit a hotel
+            </summary>
+            <returns>true / false</returns>
+        </member>
+    </members>
+</doc>

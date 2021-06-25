@@ -1,0 +1,15 @@
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.AssemblyInfo.cs
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Infrastructure.deps.json
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Infrastructure.runtimeconfig.json
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Infrastructure.runtimeconfig.dev.json
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Infrastructure.dll
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Infrastructure.pdb
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Core.dll
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\bin\Debug\netcoreapp3.1\Intricom.Core.pdb
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.csproj.CopyComplete
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.dll
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.pdb
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Infrastructure\obj\Debug\netcoreapp3.1\Intricom.Infrastructure.genruntimeconfig.cache

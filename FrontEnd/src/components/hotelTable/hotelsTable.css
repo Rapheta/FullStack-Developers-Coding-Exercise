@@ -1,0 +1,16 @@
+.editAction{
+    width: 2rem;
+    padding: 12px 10px 12px 0px !important;
+}
+
+table thead{
+    background-color:#1b1f22;
+}
+
+table tbody{
+    background-color:#2f363b;
+}
+
+table tr{
+    color: white;
+}

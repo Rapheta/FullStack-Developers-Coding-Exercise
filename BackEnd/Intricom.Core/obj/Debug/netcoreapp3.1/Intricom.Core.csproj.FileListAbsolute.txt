@@ -1,0 +1,8 @@
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\obj\Debug\netcoreapp3.1\Intricom.Core.AssemblyInfoInputs.cache
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\obj\Debug\netcoreapp3.1\Intricom.Core.AssemblyInfo.cs
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\obj\Debug\netcoreapp3.1\Intricom.Core.csproj.CoreCompileInputs.cache
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\bin\Debug\netcoreapp3.1\Intricom.Core.deps.json
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\bin\Debug\netcoreapp3.1\Intricom.Core.dll
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\bin\Debug\netcoreapp3.1\Intricom.Core.pdb
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\obj\Debug\netcoreapp3.1\Intricom.Core.dll
+C:\Users\Raphelet\source\repos\Intricom.WebApi\Intricom.Core\obj\Debug\netcoreapp3.1\Intricom.Core.pdb
