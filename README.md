@@ -15,9 +15,13 @@ The application has been developed through an web interface and covers the follo
 
 **FRONT-END**
 
+As you can see, it is possible to select, create, modify and delete new records of HotelBooking entity: 
+
 <img src="https://github.com/Rapheta/FullStack-Developers-Coding-Exercise/blob/main/imgs/001.png" width="100%"/>
 
 <img src="https://github.com/Rapheta/FullStack-Developers-Coding-Exercise/blob/main/imgs/002.png" width="100%"/>
+
+It is also possible to list, select and modify records of entities such as Hotel and Client: 
 
 <img src="https://github.com/Rapheta/FullStack-Developers-Coding-Exercise/blob/main/imgs/003.png" width="100%"/>
 
