@@ -1,5 +1,5 @@
 # FullStack-Developers-Coding-Exercise
-This is is full-stack developers coding exercise build with using .NET Core and React technologies.
+This is is full-stack developers coding exercise built using .NET Core and React technologies.
 
 A database schema is created with the following specification:
 
